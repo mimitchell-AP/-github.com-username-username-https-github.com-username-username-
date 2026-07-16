@@ -1,6 +1,6 @@
 # Welcome to Mr. Mitchell's GitHub! 🧑‍🏫
 
-This is where you will find starter code, project templates, and resources for our classes at Hamtramck High School. 
+This is where you will find starter code, project templates, and resources for my classes at Hamtramck High School. 
 
 ---
 
