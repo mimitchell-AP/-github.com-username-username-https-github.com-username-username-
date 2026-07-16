@@ -4,7 +4,7 @@ This is where you will find starter code, project templates, and resources for m
 
 ---
 
-## 📚 Our Courses
+## 📚 My Courses
 Click on the links below (or check my pinned repositories) to find resources for your class:
 
 *   🐍 **CS Fundamentals (Python):** [Link to a pinned repo or folder,coming soon]
