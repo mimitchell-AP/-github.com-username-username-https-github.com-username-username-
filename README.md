@@ -7,9 +7,9 @@ This is where you will find starter code, project templates, and resources for o
 ## 📚 Our Courses
 Click on the links below (or check my pinned repositories) to find resources for your class:
 
-*   🐍 **CS Fundamentals (Python):** [Link to a pinned repo or folder]
-*   💻 **AP Computer Science Principles:** [Link to a AP CSP repo]
-*   🛡️ **AP Cybersecurity:** [Link to a Cybersecurity repo]
+*   🐍 **CS Fundamentals (Python):** [Link to a pinned repo or folder,coming soon]
+*   💻 **AP Computer Science Principles:** [Link to a AP CSP repo,coming soon]
+*   🛡️ **AP Cybersecurity:** [Link to a Cybersecurity repo,coming soon]
 
 ---
 
