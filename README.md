@@ -1,4 +1,4 @@
-# Welcome to Mr./Ms. [Your Last Name]'s GitHub! 🧑‍🏫
+# Welcome to Mr. Mitchell's GitHub! 🧑‍🏫
 
 This is where you will find starter code, project templates, and resources for our classes at Hamtramck High School. 
 
